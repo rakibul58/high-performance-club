@@ -1,5 +1,4 @@
 .details{
-    width: 30%;
     background-color: rgba(255, 255, 0, 0.075);
     height: 800px;
     border-radius: 0 0 10px 10px;
@@ -8,4 +7,12 @@
 
 .description{
     background-color: rgba(255, 255, 0, 0.263);
+}
+
+@media screen and (max-width: 767px){
+    .details{
+        width: 90%;
+        margin: 0 5%;
+        border-radius: 10px;
+    }
 }

@@ -13,7 +13,7 @@ const Exercises = () => {
         <div className='container excercises'>
             <h2 className='text-success fw-semibold'><i className="fa-solid fa-dumbbell"></i> High-Performance-Club</h2>
             <h3 className='mt-5 mb-4'>Select today’s exercise</h3>
-            <div className='row row-cols-3 gx-4 gy-3'>
+            <div className='row row-cols-1 row-cols-sm-2 row-cols-md-3 gx-4 gy-3'>
             {
                 exercises.map(exercise => <Exercise key={exercise.id} exercise={exercise}></Exercise>)
             }

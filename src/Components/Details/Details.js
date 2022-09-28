@@ -3,7 +3,7 @@ import "./Details.css";
 
 const Details = () => {
   return (
-    <div className="details px-4">
+    <div className="details px-4 mt-5 mt-md-0">
       <div>
         <div className="my-4 d-flex gap-2">
           <h1>
