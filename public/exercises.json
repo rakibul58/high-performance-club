@@ -1,0 +1,58 @@
+[
+    {
+      "id": "63345f0f25a8e60033615626",
+      "age": "25 - 27",
+      "name": "Squats",
+      "time": 53,
+      "img": "https://images.unsplash.com/photo-1536922246289-88c42f957773?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1204&q=80",
+      "details": "A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up."
+    },
+    {
+      "id": "63345f0f9e47abf40b3d2b51",
+      "age": "21 - 28",
+      "name": "Yoga",
+      "time": 27,
+      "img": "https://images.unsplash.com/photo-1532798442725-41036acc7489?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "details": "Yoga is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India and aim to control and still the mind, recognizing a detached witness-consciousness untouched by the mind and mundane suffering."
+    },
+    {
+      "id": "63345f0f2ce464f5f90b7826",
+      "age": "20 - 32",
+      "name": "Push Up",
+      "time": 20,
+      "img": "https://images.unsplash.com/photo-1616803689943-5601631c7fec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "details": "The push-up is a common calisthenics exercise beginning from the prone position."
+    },
+    {
+      "id": "63345f0fcdf6579105aab0fd",
+      "age": "24 - 27",
+      "name": "Bench Press",
+      "time": 50,
+      "img": "https://images.unsplash.com/photo-1534368959876-26bf04f2c947?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "details": "The bench press, or chest press, is a weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench."
+    },
+    {
+      "id": "63345f0fd194496af7156fe4",
+      "age": "21 - 29",
+      "name": "Pull Up",
+      "time": 38,
+      "img": "https://images.unsplash.com/photo-1597347316205-36f6c451902a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "details": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up."
+    },
+    {
+      "id": "63345f0fa84117b71a7b707b",
+      "age": "25 - 26",
+      "name": "Overhead Press",
+      "time": 37,
+      "img": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "details": "The overhead press is an upper-body weight training exercise in which the trainee presses a weight overhead while seated or standing."
+    },
+    {
+      "id": "63345f0fdd0ec10318d5f2d0",
+      "age": "20 - 28",
+      "name": "Leg Press",
+      "time": 51,
+      "img": "https://images.unsplash.com/photo-1434682772747-f16d3ea162c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+      "details": "The leg press is a compound weight training exercise in which the individual pushes a weight or resistance away from them using their legs."
+    }
+  ]
