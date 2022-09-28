@@ -1,4 +1,10 @@
 .exercise img{
     height: 200px;
-    width: 400px;
+    width: 500px;
+}
+
+.exercise div{
+
+    background-color: rgba(255, 255, 0, 0.075);
+
 }
