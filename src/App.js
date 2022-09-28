@@ -1,9 +1,10 @@
-import Excercises from "./Components/Excercises/Excercises";
+import Exercises from "./Components/Exercises/Exercises";
+
 
 function App() {
   return (
     <div className="App">
-      <Excercises></Excercises>
+      <Exercises></Exercises>
     </div>
   );
 }
