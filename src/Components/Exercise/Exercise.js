@@ -12,7 +12,7 @@ const Exercise = (props) => {
         <div className="px-3 excercise-details">
           <h5 className="text-success fw-bold">{name}</h5>
           <p className="fw-semibold text-secondary">
-            <small>{details.slice(0, 80)}...</small>
+            <small>{details.slice(0, 70)}...</small>
           </p>
           <p className="m-0">For Age : <span className="fw-semibold">{age}</span></p>
           <p>Time required : <span className="fw-semibold text-success">{time}s</span></p>
