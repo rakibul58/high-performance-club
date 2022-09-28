@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import Details from '../Details/Details';
 import Exercise from '../Exercise/Exercise';
 import './Exercises.css';
 
@@ -10,6 +11,7 @@ const Exercises = () => {
         .then(data=>setExercise(data))
     },[])
     return (
+        <div className='d-flex flex-column flex-md-row'>
         <div className='container excercises'>
             <h2 className='text-success fw-semibold'><i className="fa-solid fa-dumbbell"></i> High-Performance-Club</h2>
             <h3 className='mt-5 mb-4'>Select today’s exercise</h3>
@@ -19,6 +21,8 @@ const Exercises = () => {
             }
             </div>
             
+        </div>
+        <Details></Details>
         </div>
     );
 };

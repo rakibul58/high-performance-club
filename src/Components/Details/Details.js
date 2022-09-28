@@ -5,7 +5,7 @@ const Details = () => {
   return (
     <div className="details px-4 mt-5 mt-md-0">
       <div>
-        <div className="my-4 d-flex gap-2">
+        <div className="my-4 d-flex align-items-center gap-2">
           <h1>
             <i className="fa-solid fa-user"></i>
           </h1>
