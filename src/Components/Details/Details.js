@@ -88,11 +88,11 @@ const Details = ({ details }) => {
         <h5 className="my-5 ms-1">Exercise Details</h5>
         <div className="description d-flex justify-content-between align-items-center p-3 rounded-4 mb-3">
           <h6>Exercise time</h6>
-          <p>{time} Seconds</p>
+          <p className="fw-semibold text-secondary">{time} seconds</p>
         </div>
         <div className="description d-flex justify-content-between align-items-center p-3 rounded-4 mb-5">
           <h6>Break time</h6>
-          <p>{breaks ? breaks : getFromDB()} Seconds</p>
+          <p className="fw-semibold text-secondary">{breaks ? breaks : getFromDB()} seconds</p>
         </div>
         <button
           onClick={handleToast}
