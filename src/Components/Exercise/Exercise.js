@@ -1,8 +1,9 @@
 import React from "react";
 import "./Exercise.css";
 
-const Exercise = (props) => {
-  const { name, img, details, age, time } = props.exercise;
+const Exercise = ({exercise , handleAddDetails}) => {
+  
+  const { name, img, details, age, time } = exercise;
   return (
     <div className="exercise col">
       <div className="border pb-3 rounded-3 w-100 h-100">
@@ -16,7 +17,7 @@ const Exercise = (props) => {
           </p>
           <p className="m-0">For Age : <span className="fw-semibold">{age}</span></p>
           <p>Time required : <span className="fw-semibold text-success">{time}s</span></p>
-          <button className="btn btn-success w-100 py-2">Add to list</button>
+          <button onClick={()=>handleAddDetails(exercise)} className="btn btn-success w-100 py-2">Add to list</button>
         </div>
       </div>
     </div>
