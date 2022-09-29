@@ -10,10 +10,11 @@
     background-color: rgba(255, 255, 0, 0.263);
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 993px){
     .details{
         width: 90%;
         margin: 0 5%;
         border-radius: 10px;
+        margin-top: 80px;
     }
 }

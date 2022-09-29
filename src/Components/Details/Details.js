@@ -16,7 +16,7 @@ const Details = ({details}) => {
   
   
   return (
-    <div className="details px-4 mt-5 mt-md-0">
+    <div className="details px-4">
       <div>
         <div className="my-4 d-flex align-items-center gap-2">
           <h1>
